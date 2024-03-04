@@ -87,11 +87,15 @@ img {
     .conteudo__principal{
         display: flex;
         flex-direction: column;
-        width: 370px;
+        width: 300px;
         gap: 10px;
     } 
+    
+    .input__task {
+        width: 250px;
+    }
     .button__add__task{
-        width: 120px;
+        width: 110px;
     }
 
 }
